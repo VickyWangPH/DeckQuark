@@ -23,5 +23,5 @@
 | 文件 | 说明 |
 | --- | --- |
 | `QuarkDeck.zip` | Decky Loader 插件安装包（主产物） |
-| `QuarkDeck-技术设计文档.md` | 夸克接口逆向、插件架构与 callable 契约 |
+| `QuarkDeck-technical-design.md` | 夸克接口逆向、插件架构与 callable 契约 |
 | `prototype.html` | 可交互原型（点击「模拟扫码成功」可体验完整门禁流程） |
